@@ -1,0 +1,9 @@
+	Create a simple ecommerce store using fake store api
+	Also use react-router-dom to switch between pages 
+	Make a search filter like we create in class today 
+	Add a animation on page load every time 
+
+
+
+Todays Class Youtube link
+https://www.youtube.com/watch?v=zYWv0bkNF8I
